@@ -1,6 +1,6 @@
 body {
     background-color: rgb(0, 0, 0);
-    text-align: center;
+    text-align: left;
 }
 
 p {
@@ -9,12 +9,13 @@ p {
 
 h1 {
     font-style: italic;
+    color: rgb(194, 0, 0);
 }
 .morango{
-    color:rgb(0, 0, 0)
+    color:rgb(122, 47, 47)
     font-size: 20px
 }
 .img1{
     width:50%;
-    text-align: left;
+    text-align: center;
 }
